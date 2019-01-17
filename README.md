@@ -151,3 +151,5 @@ Other
 License
 ------------
 `laravel-admin` is licensed under [The MIT License (MIT)](LICENSE).
+
+## 世界上最好用的后台管理
